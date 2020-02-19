@@ -1,3 +1,6 @@
+# Please note - this is my own personal copy of the files branched from Ward - please use his 
+# URL here https://github.com/wardviaene/terraform-course.git for the authoritative source!!
+
 # terraform-course
 
 * These files are part of my Udemy course about Terraform
